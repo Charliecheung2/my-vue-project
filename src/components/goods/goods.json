@@ -1,0 +1,26 @@
+{
+  "status": 1,
+  "god": {
+    "addDate": "2019-05-10T07:58:58.300Z",
+    "phos": [
+      "https://img.alicdn.com/imgextra/i4/1695308781/O1CN01HhxzVH2EjkNYPMNcq_!!1695308781.jpg_430x430q90.jpg",
+      "https://img.alicdn.com/imgextra/i4/1695308781/TB2dBNmBxuTBuNkHFNRXXc9qpXa_!!1695308781.jpg_430x430q90.jpg",
+      "https://img.alicdn.com/imgextra/i3/1695308781/TB2teAFmQUmBKNjSZFOXXab2XXa_!!1695308781.jpg_430x430q90.jpg"
+    ],
+    "imgIntro": [
+      "https://img.alicdn.com/imgextra/i1/1695308781/O1CN012EjkKRqY01dBJlq_!!1695308781.jpg",
+      "https://img.alicdn.com/imgextra/i4/1114511827/O1CN01veIT5X1PMo7NFBvRI_!!1114511827.jpg",
+      "https://img.alicdn.com/imgextra/i1/1695308781/TB2Y6DLJKSSBuNjy0FlXXbBpVXa_!!1695308781.jpg",
+      "https://img.alicdn.com/imgextra/i2/1695308781/TB2f9SzByOYBuNjSsD4XXbSkFXa_!!1695308781.jpg"
+    ],
+    "_id": "5cd52f429b5aae3c14cb68e8",
+    "name": "Meizu/魅族 16th",
+    "oldPrice": 2499,
+    "newPrice": 2299,
+    "intro": "Meizu/魅族 16th骁龙845 超窄边框全面屏 屏下指纹解锁 双摄拍照旗舰手机",
+    "quantity": 20,
+    "godNum": "2018011606090990",
+    "godId": 1,
+    "__v": 0
+  }
+}
