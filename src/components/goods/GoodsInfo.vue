@@ -92,6 +92,8 @@
             },
             addToCart(){
                 this.ballFlag=!this.ballFlag;
+                var goodsinfo={id:this.id, count:this.selectedCount, price:this.good.newPrice, selected:true}
+                this.$store.commit('addToCart', goodsinfo)
             },
             beforeEnter(el){
                 el.style.transform="translate(0, 0)"
