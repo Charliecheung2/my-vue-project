@@ -10,7 +10,7 @@
 
 <script>
     export default {
-        props:["swipeList", "isfall"],
+        props:["swipeList", "isfull"],
         data(){
             return{
             }
