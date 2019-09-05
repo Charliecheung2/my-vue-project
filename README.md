@@ -1,3 +1,3 @@
-#我的 vue 实战项目
+# 我的 vue 实战项目
 
-##使用了mint-ui和mui
+## 使用了mint-ui和mui
